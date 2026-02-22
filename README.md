@@ -1,5 +1,5 @@
-*Name:* *Nasheer Sayyed*
-*Batch:* *AICTE-BATCH 7*
+**Name:* *Nasheer Sayyed**
+**Batch:* *AICTE-BATCH 7**
 
 # AI-Resume-And-Portfolio-Builder Description :-
 AI Resume &amp; Portfolio Builder is an intelligent web application that automatically generates professional resumes and personal portfolio content using Meta LLaMA (Large Language Model). The system helps students and job seekers create industry-ready resumes quickly by providing AI-generated summaries, structured formatting, and downloadable outputs.
